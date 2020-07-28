@@ -1,5 +1,5 @@
-### Hi there 👋
-
+##### floating the thin lines between the broad landscapes of green and the grey concrete, 
+##### the smoothness of jazz and the energy of metal and the twisted lines between a man and a philosopher.
 <!--
 **walteraandrade/walteraandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
