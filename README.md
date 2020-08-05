@@ -1,7 +1,3 @@
-##### floating the thin lines between the broad landscapes of green and the grey concrete, 
-##### the smoothness of jazz and the energy of metal and the twisted lines between a man and a philosopher.
-<!--
-**walteraandrade/walteraandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Languages and Tools:
 <br/>
@@ -19,3 +15,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br/><br/>
+###### floating the thin lines between the broad landscapes of green and the grey concrete, 
+###### the smoothness of jazz and the energy of metal and the twisted lines between a man and a philosopher.
