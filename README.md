@@ -20,8 +20,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/><br/>
-###### floating the thin lines between the broad landscapes of green and the grey concrete, 
-###### the smoothness of jazz and the energy of metal and the twisted lines between a man and a philosopher.
 
 [instagram]: https://instagram.com/walter.sobrinho
 [linkedin]: https://www.linkedin.com/in/walteraandrade/
