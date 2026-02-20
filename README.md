@@ -1,6 +1,6 @@
 # yo soy yo y mis circunstancias
 
-**Creative technologist** from Belo Horizonte, Brazil. I build things that scratch my own itch — dev tools, games, weird experiments. Currently deep in the AI-assisted development rabbit hole and loving every minute of it.
+**Creative technologist** from Belo Horizonte, Brazil. I build things that scratch my own itch — dev tools, games, weird experiments. Currently deep in the AI-assisted development rabbit hole.
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/walteraandrade)
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/walteraandrade)
