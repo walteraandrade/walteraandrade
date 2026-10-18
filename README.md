@@ -2,7 +2,9 @@
 
 > *"yo soy yo y mis circunstancias"* — Ortega y Gasset
 
-**Creative technologist** from Bahia, Brazil (currently in Belo Horizonte), with a background in philosophy and logic. I build data products, AI tools that scratch my own itch, and the occasional game. Lately I write the specs and review what coding agents implement.
+**Senior software engineer** from Bahia, Brazil, now in Belo Horizonte. I build with LLMs: most recently at SmartHow, a compliance SaaS for heavy industry, I rebuilt the agent loop behind the workspace chat and shipped voice agents and document generation to production. On my own I build data products like [Rashomon](https://rashomon-five.vercel.app) and tools that keep coding agents honest.
+
+Six years of TypeScript, React and Node.js, plus Python. A philosophy degree in logic came first.
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/walteraandrade)
 [![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/walteraandrade)
