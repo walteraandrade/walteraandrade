@@ -17,8 +17,18 @@ Six years of TypeScript, React and Node.js, plus Python. A philosophy degree in 
 
 ### ▶ Start here
 
+✍️ **[chiri-ai-editor](https://github.com/walteraandrade/chiri-ai-editor)** — Markdown editor with an AI co-author. Ask for a change with `⌘K` and it answers inline as a tracked change, with a one-line rationale in the margin: accept, reject or refine it. A Review pass streams suggestions over the whole document, and a timeline keeps every version. Model picked by a 9-model bake-off; every call logged against a US$5 budget. Web and Electron.
+&nbsp;&nbsp;&nbsp;&nbsp;`TypeScript · React · CodeMirror · AI SDK · Electron`
+
+🏛️ **[chrono-digger](https://github.com/walteraandrade/chrono-digger)** — Students question AI witnesses frozen on a Sarajevo street, 28 June 1914. Each character answers only from retrieved primary sources, cites them, and refuses what the sources don't cover; a fidelity eval with an LLM judge keeps them honest. Per-player sessions, quotas and an investigation diary live in Durable Objects.
+&nbsp;&nbsp;&nbsp;&nbsp;`TypeScript · Effect · Cloudflare Workers · Durable Objects · Vectorize`
+
 📰 **[rashomon](https://github.com/walteraandrade/rashomon)** — Which words stick to 27 Brazilian public figures, across ten sources from Bluesky and GDELT to the press and Congress. Word association (PMI) computed in SQL, and every number opens to the texts behind it. Tone scored by a BERTimbau I fine-tuned, served in ONNX. **[Live →](https://rashomon-five.vercel.app)**
 &nbsp;&nbsp;&nbsp;&nbsp;`TypeScript · Hono · Effect · SvelteKit · PostgreSQL`
+
+---
+
+### 🧪 More AI tools
 
 🩺 **[anamnesis](https://github.com/walteraandrade/anamnesis)** — Chromium side panel that answers job-application questions from your own story bank, without anything leaving the browser: EmbeddingGemma search on WASM, plus an optional WebLLM rewrite that flags any number not in the source.
 &nbsp;&nbsp;&nbsp;&nbsp;`TypeScript · React · WebGPU`
