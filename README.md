@@ -71,5 +71,5 @@ Six years of TypeScript, React and Node.js, plus Python. A philosophy degree in 
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://all-those-symbols.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://walterfall.space)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/walteraandrade)
